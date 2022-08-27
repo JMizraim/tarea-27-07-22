@@ -11,3 +11,8 @@ body{
     font-size: 1.6rem;
     font-family: 'Nunito', sans-serif;
 }
+
+.header{
+    padding: 2rem;
+    background-color: skyblue;
+}
